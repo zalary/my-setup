@@ -94,8 +94,13 @@
 - [x] Clone the `github/github` repository and run `script/osx-setup`, then `script/boostrap`.
 
 ## Code
-- [x] Setup ~/github
-- [x] Setup ~/code/github-*
+- [x] Setup `~/github`
+- [x] Setup `~/code/github-*`
+
+## HospitalRun
+- [x] Clone [hospitalrun/hospitalrun-frontend](https://github.com/hospitalRun/hospitalrun-frontend/)
+	- [x] Run through [installation](https://github.com/hospitalRun/hospitalrun-frontend/#install)
+	- [x] Install [Ember inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) for Chrome
 
 ## Backup
 - [x] Configure TimeMachine and perform initial backup
