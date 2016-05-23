@@ -1,160 +1,75 @@
-my-setup
+Mac Setup
 ========
 
 Documenting my system setup for reinstalls after a complete crash, etc.
 
-## Apps that run in my menu bar all the time
+How to use: Open an issue each time I need to setup a new machine, paste the checklist from this readme, and follow the steps.
 
-- Time Machine (encrypted)
-- Alfred
-- Cloud App
-- Rescue Time
-- Adobe CC Updater
-- 1Password
-- Box sync
-- Cinch
-- Cloak
-- Box
-- F.lux
-- TextExpander
-- Drive
+## Configure OS preferences, shortcuts, etc
+- [x] Update to the latest OSX patch
+- [x] Set new system password
+- [x] Turn on hard drive encryption
+- [x] Trackpad
+	- [x] Turn on 1 click touch
+	- [x] Enable three finger touch to drag (System Prefs > Accessibility > Trackpad > Shortcuts)
+- [x] Spotlight: change to `alt A` for Spotlight search
+- [x] Global: `cmd shift +` for Window > Zoom
+- [x] Dock
+	- [x] Move to left side
+	- [x] Check automatically show and hide
+- [ ] Finder
+	- [ ] Setup sidebar
+	- [ ] Setup default arrangement view
+- [x] Energy Saver: Turn off slightly dim display on battery power
+- [x] Security
+	- [x] Turn on FileVault disk encryption
+	- [x] Set to require password immediately
+	- [x] Turn on Firewall (?)
 
-## All Applications
+## Applications
+- [x] General
+	- [x] Go to App Store > Purchased and download all necessary
+		- [x] ByWord
+		- [x] Xcode
+			- [x] Also install [Command Line Tools](https://developer.apple.com/downloads/)
+		- ~~Sketch~~ (not from App store anymore, download from site)
+		- [x] Slack
+		- [x] 1Password
+		- [x] TextExpander
+		- [x] DaisyDisk
+		- [x] etc
+- [x] [Dropbox](https://www.dropbox.com/install)
+- [x] [Chrome](http://www.google.com/chrome/)
+	- [x] Set to confirm on `Cmd Q` for Quit
+	- [x] Log in and sync bookmarks and extensions
+- [x] [Atom](http://atom.io)
+- [x] [GitHub Desktop](https://desktop.github.com/)
+- [x] [Sketch](http://www.sketchapp.com/)
+- [x] [Fantastical 2](https://flexibits.com/fantastical)
+	- [x] Check Appearance > Use color icon
+- [x] [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
+	- [x] Photoshop
+	- [x] Illustrator
+	- [x] Acrobat
+- [x] [Bartender 2](https://www.macbartender.com/)
+- [x] Apple Mail (or [Nylas](https://nylas.com/))
+	- [x] Configure email accounts
+- [x] [Cloak](https://www.getcloak.com/)
 
-- 1Password
-- Adobe
-- Adobe Acrobat X Pro
-- Adobe Acrobat XI Pro
-- Adobe After Effects CC
-- Adobe Audition CC
-- Adobe Bridge CC
-- Adobe Creative Cloud
-- Adobe Extension Manager CC
-- Adobe Illustrator CC
-- Adobe InDesign CC
-- Adobe InDesign CS6
-- Adobe Media Encoder CC
-- Adobe Photoshop CC
-- Adobe Photoshop Lightroom 5.app
-- Airmail.app
-- Alfred 2.app
-- Amazon MP3 Downloader.app
-- Angry Birds Star Wars.app
-- Angry Birds.app
-- App Store.app
-- Atom.app
-- Automator.app
-- Box Sync.app
-- Byword.app
-- Calculator.app
-- Calendar.app
-- Calendar.app
-- Canon Utilities
-- Chess.app
-- Cinch.app
-- Cloak.app
-- Cloud.app
-- CodeKit.app
-- Contacts.app
-- DaisyDisk.app
-- Dash.app
-- Dashboard.app
-- Day-O.app
-- DesignUploader.app
-- Dictionary.app
-- DPS App Builder.app
-- Dropbox.app
-- DVD Player.app
-- Espresso.app
-- EtreCheck.app
-- Evernote.app
-- FaceTime.app
-- Firefox.app
-- Fitbit Connect.app
-- Fitbit.app
-- Flux.app
-- Font Book.app
-- Game Center.app
-- GarageBand.app
-- GIFBrewery.app
-- GitHub Chat.app
-- GitHub.app
-- GitX.app
-- Glyphs.app
-- Google Chrome.app
-- Google Drive.app
-- iA Writer.app
-- iBooks.app
-- iConvert Icons.app
-- Image Capture.app
-- ImageAlpha.app
-- ImageOptim.app
-- iMovie 9.0.9
-- iMovie.app
-- Inkscape.app
-- Inky.app
-- InstantShot!.app
-- iPhoto.app
-- iTerm.app
-- iTunes.app
-- iWork '09
-- Jaksta.app
-- join.me.app
-- Kaleidoscope.app
-- Keynote.app
-- Launchpad.app
-- League of Legends.app
-- LICEcap.app
-- LimeChat.app
-- LiveReload.app
-- Mail.app
-- MAMP
-- MAMP PRO 1.9.6.1
-- Maps.app
-- Marked.app
-- Messages.app
-- Microsoft Silverlight
-- Mission Control.app
-- Notes.app
-- Numbers.app
-- Pages.app
-- Parallels Desktop.app
-- Photo Booth.app
-- Piezo.app
-- Play.app
-- Preview.app
-- ProCSSor.app
-- Quick Disk.app
-- QuickTime Player.app
-- Reminders.app
-- RescueTime.app
-- Safari.app
-- ScreenFlow.app
-- Screenhero.app
-- Screeny.app
-- Sequel Pro.app
-- Shopify Theme.app
-- Silverback.app
-- Sketch.app
-- Skitch.app
-- Skype.app
-- Snes9x.app
-- Soulver.app
-- SoundCloud.app
-- Sparrow.app
-- Stickies.app
-- Sublime Text 2.app
-- System Preferences.app
-- Team.app
-- TextEdit.app
-- TextExpander.app
-- Tictoc.app
-- Time Machine.app
-- TopGun.app
-- Tower.app
-- Transmit.app
-- Twitter.app
-- Versions.app
-- VirtualBox.app
-- Viscosity.app
-- Xcode.app
+## CLI
+- [x] Install [iTerm2](https://www.iterm2.com/)
+	- [x] Install [Galaxy theme](https://github.com/jglovier/galaxy-theme-iterm)
+	- [ ] Load `.bash_profile`
+	- [ ] Load `.gitconfig` contents into global `~/.gitconfig`
+	- [ ] Load `.zshrc`
+- [ ] zsh
+- [ ] node
+- [ ] Xcode > install command line tools
+
+## Code
+- [ ] Setup ~/github
+- [ ] Setup ~/code/github-*
+
+## Backup
+- [x] Configure TimeMachine and perform initial backup
+  - [x] Turn off, and set Cal reminder to perform manually each week
