@@ -65,7 +65,7 @@
 - [x] Install [oh my zsh](http://ohmyz.sh/)
 	- [x] Load `.zshrc`
 	- [ ] Install symbol fonts
-- [ ] Install Ruby
+- [x] Install Ruby
 	- [x] Install rbenv via Homebrew: `brew install rbenv`.
 	- [x] Download a version of Ruby via rbenv (e.g., `rbenv install 2.2.3`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
 	- [x] Make it the global version of Ruby: `rbenv global 2.2.3`.
@@ -81,12 +81,17 @@
 	- [x] [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
 	- [x] [Selector to tag](https://atom.io/packages/selector-to-tag)
 	- [x] [Linter](https://atom.io/packages/linter) and [`.scss` linter](https://atom.io/packages/linter-scss-lint)
+	- [x] [Autoclose HTML](https://atom.io/packages/autoclose-html)
+	- [x] [Compare files](https://atom.io/packages/compare-files)
+	- [x] [Less than slash](https://atom.io/packages/less-than-slash)
+	- [ ] [Selector to tag](https://atom.io/packages/selector-to-tag)
+	- [x] [Merge conflicts](https://atom.io/packages/merge-conflicts)
 
 ## GitHub
 - [x] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
 - [x] [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
 - [x] Download the [Strap](https://github.com/mikemcquaid/strap) setup script for GitHub's foundational development setup.
-- [ ] Clone the `github/github` repository and run `script/osx-setup`.
+- [x] Clone the `github/github` repository and run `script/osx-setup`, then `script/boostrap`.
 
 ## Code
 - [x] Setup ~/github
@@ -98,4 +103,4 @@
 
 ## Misc
 - [ ] Install Fonts from backup fronts dir
-- [ ] Download music from Apple Music
+- [x] Download music from Apple Music
