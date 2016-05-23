@@ -40,7 +40,7 @@
 - [x] [Chrome](http://www.google.com/chrome/)
 	- [x] Set to confirm on `Cmd Q` for Quit
 	- [x] Log in and sync bookmarks and extensions
-	- [ ] Install [user style for GitHub.com](https://gist.github.com/jglovier/2dff3507d9ee007f6ce4)
+	- [x] Install [user style for GitHub.com](https://gist.github.com/jglovier/2dff3507d9ee007f6ce4)
 - [x] [Atom](http://atom.io)
 - [x] [GitHub Desktop](https://desktop.github.com/)
 - [x] [Sketch](http://www.sketchapp.com/)
@@ -61,24 +61,26 @@
 	- [x] Install [Galaxy theme](https://github.com/jglovier/galaxy-theme-iterm)
 	- [x] Load `.bash_profile`
 	- [x] Load `.gitconfig` contents into global `~/.gitconfig`
-	- [ ] Load `.zshrc`
-- [ ] zsh
+	- [x] Load `.gitignore_global`
+- [x] Install [oh my zsh](http://ohmyz.sh/)
+	- [x] Load `.zshrc`
+	- [ ] Install symbol fonts
 - [ ] Install Ruby
 	- [x] Install rbenv via Homebrew: `brew install rbenv`.
 	- [x] Download a version of Ruby via rbenv (e.g., `rbenv install 2.2.3`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
-	- [ ] Make it the global version of Ruby: `rbenv global 2.2.3`.
+	- [x] Make it the global version of Ruby: `rbenv global 2.2.3`.
 - [ ] Install misc dependencies
 	- [x] Install Node via Homebrew: `brew install node`
 	- [ ] Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
 
 ## Atom
-- [ ] Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
+- [x] Enable `atom` Terminal commands: from Atom.app, open the Atom menu and select *Install Shell Commands*
 - [x] Disable the `wrap-guide` package
-- [ ] Install [favorite packages](https://atom.io/users/jglovier/stars):
+- [x] Install [favorite packages](https://atom.io/users/jglovier/stars):
 	- [x] [Fizzy syntax theme](https://atom.io/themes/fizzy) syntax package
-	- [ ] [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
-	- [ ] [Selector to tag](https://atom.io/packages/selector-to-tag)
-	- [ ] [Linter](https://atom.io/packages/linter) and [`.scss` linter](https://atom.io/packages/linter-scss-lint)
+	- [x] [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
+	- [x] [Selector to tag](https://atom.io/packages/selector-to-tag)
+	- [x] [Linter](https://atom.io/packages/linter) and [`.scss` linter](https://atom.io/packages/linter-scss-lint)
 
 ## GitHub
 - [x] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
@@ -93,3 +95,7 @@
 ## Backup
 - [x] Configure TimeMachine and perform initial backup
   - [x] Turn off, and set Cal reminder to perform manually each week
+
+## Misc
+- [ ] Install Fonts from backup fronts dir
+- [ ] Download music from Apple Music
