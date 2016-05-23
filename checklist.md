@@ -54,6 +54,7 @@
 - [ ] Apple Mail (or [Nylas](https://nylas.com/))
 	- [ ] Configure email accounts
 - [ ] [Cloak](https://www.getcloak.com/)
+- [ ] [Traktor 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/)
 
 ## CLI
 - [ ] Xcode > install command line tools
