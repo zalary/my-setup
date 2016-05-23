@@ -1,4 +1,4 @@
-Mac Setup
+My Mac Setup
 ========
 
 Documenting my system setup for reinstalls after a complete crash, etc.
