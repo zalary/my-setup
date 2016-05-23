@@ -13,6 +13,7 @@
 - [ ] Finder
 	- [ ] Setup sidebar
 	- [ ] Setup default arrangement view
+  - [ ] Turn on view hidden files
 - [ ] Energy Saver: Turn off slightly dim display on battery power
 - [ ] Security
 	- [ ] Turn on FileVault disk encryption
