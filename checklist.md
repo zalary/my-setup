@@ -85,7 +85,7 @@
 	- [ ] [Fizzy syntax theme](https://atom.io/themes/fizzy) syntax package
 	- [ ] [Wrap in tag](https://atom.io/packages/atom-wrap-in-tag)
 	- [ ] [Selector to tag](https://atom.io/packages/selector-to-tag)
-	- [ ] [Linter](https://atom.io/packages/linter) and [`.scss` linter](https://atom.io/packages/linter-scss-lint)
+	- [ ] [Linter](https://atom.io/packages/linter) and [linter-stylelint](https://atom.io/packages/linter-stylelint)
 	- [ ] [Autoclose HTML](https://atom.io/packages/autoclose-html)
 	- [ ] [Compare files](https://atom.io/packages/compare-files)
 	- [ ] [Less than slash](https://atom.io/packages/less-than-slash)
