@@ -6,7 +6,11 @@
 	- [ ] Turn on 1 click touch
 	- [ ] Enable three finger touch to drag (System Prefs > Accessibility > Trackpad > Shortcuts)
 - [ ] Spotlight: change to `alt A` for Spotlight search
-- [ ] Global: `cmd shift +` for Window > Zoom
+- [ ] Global Shortcuts (`System Preferences > Keyboard > Shortcuts`): 
+  - [ ] `cmd shift +` for Window > Zoom
+- [ ] App Shortcuts (`System Preferences > Keyboard > Shortcuts > App Shortcuts`)
+  - [ ] Sketch: `Show Layers List` = `cmd 1`
+  - [ ] Sketch: `Show Inspector` = `cmd 2`
 - [ ] Dock
 	- [ ] Move to left side
 	- [ ] Check automatically show and hide
