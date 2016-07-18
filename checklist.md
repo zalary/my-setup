@@ -59,6 +59,7 @@
 	- [ ] Configure email accounts
 - [ ] [Cloak](https://www.getcloak.com/)
 - [ ] [Traktor 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/)
+- [ ] [OpenEmu](http://openemu.org/)
 
 ## CLI
 - [ ] Xcode > install command line tools
