@@ -60,6 +60,7 @@
 - [ ] [Cloak](https://www.getcloak.com/)
 - [ ] [Traktor 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/)
 - [ ] [OpenEmu](http://openemu.org/)
+- [ ] [LICEcap] (http://www.cockos.com/licecap/)
 
 ## CLI
 - [ ] Xcode > install command line tools
