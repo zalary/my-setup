@@ -40,10 +40,6 @@ alias prep="script/bootstrap && ./bin/rake db:migrate test:setup && git checkout
 alias master='git co master'
 alias ghp='git co gh-pages'
 
-## SVN
-alias up='svn up'
-alias sst='svn st'
-
 ## Switch repos
 DIR=~/work
 alias h='cd ~/'
