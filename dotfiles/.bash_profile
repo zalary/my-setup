@@ -34,6 +34,7 @@ alias gmm='git merge master'
 alias gmghp='git merge gh-pages'
 alias recent='git for-each-ref --sort=-committerdate refs/heads/'
 alias branch_new="git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)'"
+alias prep="script/bootstrap && ./bin/rake db:migrate test:setup && git checkout -- db/"
 
 ## Git branch switching
 alias master='git co master'
