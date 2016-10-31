@@ -54,10 +54,6 @@ alias bs='cd ${DIR}/bootstrap'
 alias gh='cd ~/github'
 alias gg='cd ~/github/github'
 alias ggg='gg && script/server'
-alias giants='cd ~/github/giants'
-alias hire='cd ~/github/hire'
-alias summit='cd ~/github/summit'
-alias primer='cd ~/github/primer'
 
 ## Server guick starts
 alias ss='script/server'
