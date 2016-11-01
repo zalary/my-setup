@@ -86,3 +86,65 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Aliases
+
+## Shortcuts
+alias ll='ls -al'
+alias editgit='atom ~/.gitconfig'
+alias editbash='atom ~/.bash_profile'
+alias resource='source ~/.bash_profile && echo "Done!"'
+alias vi=vim
+alias dbm="bin/rake db:migrate db:test:prepare"
+
+## Go places
+alias goto_github='cd ~/github/github'
+alias goto_gh='cd ~/github/github'
+alias goto_hr='cd ~/code/github-hospitalrun'
+alias goto_hrfe='cd ~/code/github-hospitrun/hospitalrun-frontend'
+alias goto_jglovier='cd ~/code/github-jglovier'
+
+## Git commands
+alias log='git log'
+alias diff='git diff'
+alias branch='git branch'
+alias st='git status'
+alias fetch='git fetch'
+alias push='git push origin head'
+alias pull='git pull'
+alias fp='fetch && pull'
+alias gmm='git merge master'
+alias gmghp='git merge gh-pages'
+alias recent='git for-each-ref --sort=-committerdate refs/heads/'
+alias branch_new="git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)'"
+alias prep="script/bootstrap && ./bin/rake db:migrate test:setup && git checkout -- db/"
+
+## Git branch switching
+alias master='git co master'
+alias ghp='git co gh-pages'
+
+## Switch repos
+DIR=~/work
+alias h='cd ~/'
+alias w='cd ${DIR}'
+alias bs='cd ${DIR}/bootstrap'
+
+## Core GitHub apps
+alias gh='cd ~/github'
+alias gg='cd ~/github/github'
+alias ggg='gg && script/server'
+
+## Server guick starts
+alias ss='script/server'
+alias js='jekyll serve --watch'
+alias ps='python -m SimpleHTTPServer 4000'
+alias gtest='testrb test/integration/bundle_test.rb'
+
+## Mobile iOS testing
+alias ios='open /Applications/Xcode.app/Contents/Applications/iPhone\ Simulator.app'
+
+# Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
+
+# rbenv
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
