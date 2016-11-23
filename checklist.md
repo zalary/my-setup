@@ -62,6 +62,7 @@
 - [ ] [OpenEmu](http://openemu.org/)
 - [ ] [LICEcap](http://www.cockos.com/licecap/)
 - [ ] [ImageOptim](https://imageoptim.com/)
+- [ ] [CleanMyMac](http://macpaw.com/cleanmymac)
 
 ## CLI
 - [ ] Xcode > install command line tools
