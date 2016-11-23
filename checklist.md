@@ -55,6 +55,7 @@
 	- [ ] Illustrator
 	- [ ] Acrobat
 - [ ] [Bartender 2](https://www.macbartender.com/)
+- [ ] [Transmit](https://panic.com/transmit/)
 - [ ] Apple Mail (or [Nylas](https://nylas.com/))
 	- [ ] Configure email accounts
 - [ ] [Cloak](https://www.getcloak.com/)
