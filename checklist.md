@@ -33,7 +33,7 @@
 	- [ ] Go to App Store > Purchased and download all necessary
 		- [ ] ByWord
 		- [ ] Xcode
-			- [ ] Also install [Command Line Tools](https://developer.apple.com/downloads/)
+			- [ ] Also install [Command Line Tools](https://gist.github.com/jglovier/842c61d5a4347cdc18f812e2ef7c2928)
 		- ~~Sketch~~ (not from App store anymore, download from site)
 		- [ ] Slack
 		- [ ] 1Password
