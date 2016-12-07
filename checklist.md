@@ -6,6 +6,7 @@
 	- [ ] Turn on 1 click touch
 	- [ ] Enable three finger touch to drag (System Prefs > Accessibility > Trackpad > Shortcuts)
 - [ ] Spotlight: change to `alt A` for Spotlight search
+- [ ] Turn off global font smoothing (`System Preferences > General > (uncheck) Use LCD font smoothing when available`)
 - [ ] Global Shortcuts (`System Preferences > Keyboard > Shortcuts`): 
   - [ ] `cmd shift +` for Window > Zoom
 - [ ] App Shortcuts (`System Preferences > Keyboard > Shortcuts > App Shortcuts`)
