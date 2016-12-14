@@ -55,16 +55,17 @@
 	- [ ] Photoshop
 	- [ ] Illustrator
 	- [ ] Acrobat
-- [ ] [Bartender 2](https://www.macbartender.com/)
-- [ ] [Transmit](https://panic.com/transmit/)
+- [ ] [Bartender 2](https://www.macbartender.com/) for keeping my Menu bar tidy
+- [ ] [Transmit](https://panic.com/transmit/) for FTP use
 - [ ] Apple Mail (or [Nylas](https://nylas.com/))
 	- [ ] Configure email accounts
-- [ ] [Cloak](https://www.getcloak.com/)
-- [ ] [Traktor 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/)
-- [ ] [OpenEmu](http://openemu.org/)
-- [ ] [LICEcap](http://www.cockos.com/licecap/)
-- [ ] [ImageOptim](https://imageoptim.com/)
-- [ ] [CleanMyMac](http://macpaw.com/cleanmymac)
+- [ ] [Cloak](https://www.getcloak.com/) for staying secure
+- [ ] [Traktor 2](http://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-2/) for making mixes
+- [ ] [OpenEmu](http://openemu.org/) for old school SNES gaming
+- [ ] [LICEcap](http://www.cockos.com/licecap/) for recording gifs
+- [ ] [ImageOptim](https://imageoptim.com/) for optimizing ALL OF THE PNGS/JPGS
+- [ ] [CleanMyMac](http://macpaw.com/cleanmymac) for keeping my machine cruft free
+- [ ] [Kap](https://getkap.co/) for recording gifs (newer way)
 
 ## CLI
 - [ ] Xcode > install command line tools
