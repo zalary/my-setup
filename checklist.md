@@ -105,6 +105,8 @@
 	- [ ] [Git-time-machine](https://atom.io/packages/git-time-machine)
 	- [ ] [Atom beautify](https://atom.io/packages/atom-beautify)
 	- [ ] [Markdown PDF](https://atom.io/packages/markdown-pdf)
+	- [ ] [Markdown Writer](https://atom.io/packages/markdown-writer)
+	- [ ] [Toolbar for Markdown Writer](https://atom.io/packages/tool-bar-markdown-writer)
 
 ## GitHub
 - [ ] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
