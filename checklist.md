@@ -66,6 +66,7 @@
 - [ ] [ImageOptim](https://imageoptim.com/) for optimizing ALL OF THE PNGS/JPGS
 - [ ] [CleanMyMac](http://macpaw.com/cleanmymac) for keeping my machine cruft free
 - [ ] [Kap](https://getkap.co/) for recording gifs (newer way)
+- [ ] [Ableton Live](https://www.ableton.com/en/account/)
 
 ## CLI
 - [ ] Xcode > install command line tools
