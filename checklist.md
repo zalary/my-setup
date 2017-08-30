@@ -67,6 +67,7 @@
 - [ ] [CleanMyMac](http://macpaw.com/cleanmymac) for keeping my machine cruft free
 - [ ] [Kap](https://getkap.co/) for recording gifs (newer way)
 - [ ] [Ableton Live](https://www.ableton.com/en/account/)
+- [ ] [Spectacle](https://www.spectacleapp.com/)
 
 ## CLI
 - [ ] Xcode > install command line tools
