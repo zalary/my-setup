@@ -68,6 +68,7 @@
 - [ ] [Kap](https://getkap.co/) for recording gifs (newer way)
 - [ ] [Ableton Live](https://www.ableton.com/en/account/) for making sick beats
 - [ ] [Spectacle](https://www.spectacleapp.com/) for window management
+- [ ] [Sophos](https://home.sophos.com/download-mac-anti-virus) for security
 
 ## CLI
 - [ ] Xcode > install command line tools
