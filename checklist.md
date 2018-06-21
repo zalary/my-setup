@@ -114,12 +114,6 @@
 ## GitHub
 - [ ] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
 - [ ] [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
-- [ ] Download the [Strap](https://github.com/mikemcquaid/strap) setup script for GitHub's foundational development setup.
-- [ ] Clone the `github/github` repository and run `script/osx-setup`, then `script/boostrap`.
-
-## Code
-- [ ] Setup `~/github`
-- [ ] Setup `~/code/github-*`
 
 ## HospitalRun
 - [ ] Clone [hospitalrun/hospitalrun-frontend](https://github.com/hospitalRun/hospitalrun-frontend/)
