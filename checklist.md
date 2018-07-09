@@ -76,6 +76,7 @@
 	- [ ] Load `.bash_profile`
 	- [ ] Load `.gitconfig` contents into global `~/.gitconfig`
 	- [ ] Load `.gitignore_global`
+- [ ] Install [Homebrew](https://brew.sh/)
 - [ ] Install [oh my zsh](http://ohmyz.sh/)
 	- [ ] Load `.zshrc`
 	- [ ] Install [Powerline patched fonts](https://github.com/powerline/fonts/)
@@ -84,7 +85,6 @@
 	- [ ] Set text to:
 		- Regular font: `14pt Roboto Mono for Powerline`
 		- Non-ASCII font: `12pt Meslo LG L DZ Regular for Powerline`
-- [ ] Install [Homebrew](https://brew.sh/) (no longer comes with ZSH)
 - [ ] Install Ruby
 	- [ ] Install rbenv via Homebrew: `brew install rbenv`.
 	- [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.5.1`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
