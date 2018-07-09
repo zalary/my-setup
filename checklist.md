@@ -84,6 +84,7 @@
 	- [ ] Set text to:
 		- Regular font: `14pt Roboto Mono for Powerline`
 		- Non-ASCII font: `12pt Meslo LG L DZ Regular for Powerline`
+- [ ] Install [Homebrew](https://brew.sh/) (no longer comes with ZSH)
 - [ ] Install Ruby
 	- [ ] Install rbenv via Homebrew: `brew install rbenv`.
 	- [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.2.3`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
