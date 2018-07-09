@@ -1,6 +1,6 @@
 [user]
-  name = Joel Glovier
-  email = jglovier@github.com
+	name = Joel Glovier
+	email = jglovier@gmail.com
 
 [color]
     ui = auto
@@ -26,14 +26,14 @@
 
 [core]
 	excludesfile = /Users/joelglovier/.gitignore_global
-	editor = atom
+	editor = atom -w
 	autocrlf = input
 
 [hub]
 protocol = https
 
 [github]
-user = jglovier
+	user = jglovier
 
 [alias]
 	diffword = git diff --color-words
@@ -48,8 +48,9 @@ user = jglovier
 	required = true
 
 [filter "lfs"]
-	clean = git lfs clean %f
-	smudge = git lfs smudge %f
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
 	required = true
 
 [push]

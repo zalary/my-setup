@@ -96,13 +96,12 @@ alias editbash='atom ~/.bash_profile'
 alias resource='source ~/.bash_profile && echo "Done!"'
 alias vi=vim
 alias dbm="bin/rake db:migrate db:test:prepare"
+alias serve='python -m SimpleHTTPServer' # serves on localhost:8000
 
 ## Go places
-alias goto_github='cd ~/github/github'
-alias goto_gh='cd ~/github/github'
-alias goto_hr='cd ~/code/github-hospitalrun'
-alias goto_hrfe='cd ~/code/github-hospitrun/hospitalrun-frontend'
-alias goto_jglovier='cd ~/code/github-jglovier'
+alias gt_hr='cd ~/code/github-hospitalrun'
+alias gt_hrfe='cd ~/code/github-hospitrun/hospitalrun-frontend'
+alias gt_jglovier='cd ~/code/github-jglovier/jglovier.github.io'
 
 ## Git commands
 alias log='git log'
@@ -117,7 +116,9 @@ alias gmm='git merge master'
 alias gmghp='git merge gh-pages'
 alias recent='git for-each-ref --sort=-committerdate refs/heads/'
 alias branch_new="git for-each-ref --sort=-committerdate refs/heads/ --format='%(refname:short)'"
-alias prep="script/bootstrap && ./bin/rake db:migrate test:setup && git checkout -- db/"
+alias gh_prep="script/bootstrap && bin/rake db:migrate db:test:prepare && git checkout -- db/"
+alias gmm="git pull && git merge origin/master"
+alias merge master="git pull && git merge origin/master"
 
 ## Git branch switching
 alias master='git co master'
@@ -129,16 +130,17 @@ alias h='cd ~/'
 alias w='cd ${DIR}'
 alias bs='cd ${DIR}/bootstrap'
 
-## Core GitHub apps
-alias gh='cd ~/github'
-alias gg='cd ~/github/github'
-alias ggg='gg && script/server'
-
 ## Server guick starts
 alias ss='script/server'
-alias js='jekyll serve --watch'
-alias ps='python -m SimpleHTTPServer 4000'
+alias js='bundle exec jekyll serve --watch'
+alias bejs='bundle exec jekyll serve --watch'
+alias simpleserver='python -m SimpleHTTPServer 4000'
+alias simpleserve='python -m SimpleHTTPServer 4000'
 alias gtest='testrb test/integration/bundle_test.rb'
+
+## IP stuff
+alias ip="curl icanhazip.com"
+alias flushdns="sudo dscacheutil -flushcache;sudo killall -HUP mDNSResponder; echo 'Flushed DNS, btw here is your hosts file just in case:'; cat /etc/hosts"
 
 ## Mobile iOS testing
 alias ios='open /Applications/Xcode.app/Contents/Applications/iPhone\ Simulator.app'
