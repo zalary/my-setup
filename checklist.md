@@ -87,8 +87,8 @@
 - [ ] Install [Homebrew](https://brew.sh/) (no longer comes with ZSH)
 - [ ] Install Ruby
 	- [ ] Install rbenv via Homebrew: `brew install rbenv`.
-	- [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.2.3`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
-	- [ ] Make it the global version of Ruby: `rbenv global 2.2.3`.
+	- [ ] Download a version of Ruby via rbenv (e.g., `rbenv install 2.5.1`). See <https://gorails.com/setup/osx/10.11-el-capitan>.
+	- [ ] Make it the global version of Ruby: `rbenv global 2.5.1`.
 - [ ] Install misc dependencies
 	- [ ] Install Node via Homebrew: `brew install node`
 	- [ ] Install Sass, Jekyll, and Rouge: `gem install sass jekyll rouge`.
