@@ -104,7 +104,6 @@
 	- [ ] [Autoclose HTML](https://atom.io/packages/autoclose-html)
 	- [ ] [Compare files](https://atom.io/packages/compare-files)
 	- [ ] [Less than slash](https://atom.io/packages/less-than-slash)
-	- [ ] [Selector to tag](https://atom.io/packages/selector-to-tag)
 	- [ ] [Merge conflicts](https://atom.io/packages/merge-conflicts)
 	- [ ] [Git-time-machine](https://atom.io/packages/git-time-machine)
 	- [ ] [Atom beautify](https://atom.io/packages/atom-beautify)
