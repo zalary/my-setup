@@ -36,11 +36,11 @@
 		- [ ] Xcode
 			- [ ] Also install [Command Line Tools](https://gist.github.com/jglovier/842c61d5a4347cdc18f812e2ef7c2928)
 		- ~~Sketch~~ (not from App store anymore, download from site)
-		- [ ] Slack
 		- [ ] 1Password
 		- [ ] TextExpander
 		- [ ] DaisyDisk
 		- [ ] etc
+- [ ] [Slack](https://slack.com/downloads/osx) *(need .com download for control sharing support)
 - [ ] [Dropbox](https://www.dropbox.com/install)
 - [ ] [Chrome](http://www.google.com/chrome/)
 	- [ ] Set to confirm on `Cmd Q` for Quit
@@ -48,7 +48,8 @@
 	- [ ] Install [user style for GitHub.com](https://gist.github.com/jglovier/2dff3507d9ee007f6ce4)
 - [ ] [Atom](http://atom.io)
 - [ ] [GitHub Desktop](https://desktop.github.com/)
-- [ ] [Sketch](http://www.sketchapp.com/)
+- [ ] [Sketch](http://www.sketchapp.com/) *(from App store)*
+  - [ ] [SketchRunner](https://sketchrunner.com/)
 - [ ] [Fantastical 2](https://flexibits.com/fantastical)
 	- [ ] Check Appearance > Use color icon
 - [ ] [Adobe Creative Cloud](http://www.adobe.com/creativecloud.html)
