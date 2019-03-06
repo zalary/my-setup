@@ -4,7 +4,6 @@ Documenting my system setup for reinstalls after a complete crash, etc.
 
 How to use: Open an issue each time I need to setup a new machine, paste [the checklist](checklist.md) from this readme, and follow the steps.
 
-![voltron](https://cloud.githubusercontent.com/assets/1319791/18592660/fc70c3b0-7c05-11e6-8a80-27a14ddab24e.gif)
 
 ## Contents
 
